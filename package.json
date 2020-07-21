@@ -1,0 +1,20 @@
+{
+  "name": "nexttest",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.24.2",
+    "axios": "^0.19.0",
+    "babel-plugin-import": "^1.12.2",
+    "moment": "^2.24.0",
+    "next": "9.1.1",
+    "react": "16.11.0",
+    "react-dom": "16.11.0"
+  }
+}
